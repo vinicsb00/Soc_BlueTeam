@@ -241,3 +241,10 @@ Este laboratório demonstrou que:
 O foco não foi apenas executar ferramentas, mas compreender todo o processo defensivo, reforçando raciocínio de Blue Team.
 
 ---
+
+![siem](/screenshots_soc/siem_em_acao.png)
+
+---
+
+![siemlogs](/screenshots_soc/siem_logs.png)
+
